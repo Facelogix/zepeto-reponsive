@@ -1,0 +1,62 @@
+
+
+
+/* ------------------- header */
+header {}
+header a {}
+header a img {}
+header nav {}
+header nav a {}
+header .lnb {}
+header .lnb a {}
+header .lnb a img {}
+
+/* --------------------- main */
+main {}
+main .visual {}
+main .visual .container {}
+main .visual .container h1 {}
+main .visual .container p {}
+main .visual .container video {} /* e:visual */
+main .creater {}
+main .creater .container {}
+main .creater .container h1 {}
+main .creater .container p {}
+main .creater .container p:first-child {}
+main .creater .container p:last-child img {}
+main .creater .container dl {}
+main .creater .container dl dt {}
+main .creater .container dl dd {}
+main .creater .container dl:nth-of-type(1) {}
+main .creater .container dl:nth-of-type(2) {}
+main .creater .container dl:nth-of-type(3) {} /* e:creater */
+main .world {}
+main .world .container {}
+main .world .container h1 {}
+main .world .container p {}
+main .world .container ul {}
+main .world .container ul li {}
+main .world .container ul li:nth-of-type(1) {}
+main .world .container ul li:nth-of-type(2) {}
+main .world .container ul li:nth-of-type(3) {}
+main .world .container ul li h2 {}
+main .world .container ul li p {}
+main .world .container ul li a {}/* e:world */
+main .cr_list {}
+main .cr_list h1 {}
+main .cr_list p {}
+main .cr_list ul {}
+main .cr_list ul li {}
+main .cr_list ul li a {}
+main .cr_list ul li a img {}/* e:cr_list */
+/* ---------------------- footer */
+footer {}
+footer .left {}
+footer .left .fnb {}
+footer .left .fnb a {}
+footer .left p {} /* e:left */
+footer .right {}
+footer .right #lang {}
+footer .right #lang option {}
+footer .right .sns {}
+footer .right .sns a {}
